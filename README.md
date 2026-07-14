@@ -70,7 +70,7 @@ or
 
 ## Author
 
-**Mohit Mamgai**
+**Mohit Mamgain**
 
 ---
 
